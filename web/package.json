@@ -58,7 +58,7 @@
     "tailwindcss": "^3.3.1",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.2",
-    "vite": "^4.5.3",
+    "vite": "^4.5.6",
     "vite-plugin-dynamic-import": "^1.2.7"
   },
   "lint-staged": {
